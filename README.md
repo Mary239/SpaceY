@@ -1,3 +1,6 @@
 # SpaceY
 Project of the first academic year
-default
+Follow Danya and try git
+�Please
+Good night
+
